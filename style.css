@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(139, 25, 173);
+}
+body {
+    color: rgba(255, 255, 255, 0.938);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+p {
+    font-size: 15px;
+}
